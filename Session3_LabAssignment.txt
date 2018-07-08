@@ -1,0 +1,21 @@
+WAP to take input from a user for name, mobile number and
+address with validation
+
+WAP to take an input from user and give square root
+		4.7===>5
+		4.3==>4
+		4.5==>5
+		5.5==>6
+		3.5==>4
+
+
+WAP to take two guess input from user and predict whether he
+has guessed it correct or not. Give 4 chance to user.
+
+
+WAP to take n inputs from user and print the largest,
+smallest, total, average out of it
+
+
+WAP for factorial
+
